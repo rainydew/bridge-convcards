@@ -1,2 +1,2 @@
 # bridge-convcards
-Team Convention Cards Of Our ITL Contract Bridge League
+High quality team Convention Cards of our International Teams League Contract Bridge tournament.
